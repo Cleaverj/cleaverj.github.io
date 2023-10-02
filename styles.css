@@ -1,7 +1,7 @@
-div {
+/*div {
   text-align: justify;
 }
-/*body {
+body {
     background-color: powderblue;
   }
   h1 {
@@ -11,4 +11,4 @@ div {
   border: 5px solid rgb(202, 31, 31);
   margin: 50px;
 } */
-/* h1 {text-align: center;} */
+h1 {text-align: center;}
